@@ -49,4 +49,30 @@ A lightweight speech recognition script that captures real-time voice input from
 
 1. **Install Dependencies:**
 pip install tensorflow matplotlib SpeechRecognition pyaudio
+-----
 
+##  Project 3: Movie Recommendation System
+
+A **content-based movie recommender** that suggests similar movies based on their plot descriptions using **TF-IDF vectorization** and **cosine similarity**.
+
+### ✨ Features:
+- Simple, intuitive content filtering
+- Recommends similar titles from a given movie
+- Small custom dataset used
+
+### 🛠️ Technologies:
+- Python
+- pandas
+- scikit-learn (TF-IDF & cosine similarity)
+
+### 📁 File:
+- `movie_recommendation_system.py`
+
+---
+
+## ▶️ How to Run
+
+1. **Install Dependencies:**
+
+pip install tensorflow matplotlib SpeechRecognition pyaudio pandas scikit-learn
+----
